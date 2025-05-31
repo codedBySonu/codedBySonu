@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Hi, I'm Sonu Kumar Singh
 
-<!--
-**codedBySonu/codedBySonu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Passionate about **coding** and **web development**  
+🚀 Turning ideas into beautiful, responsive websites  
+🛠️ Always exploring new tech and improving my skills  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 What I Know
+
+- 🌐 Frontend: HTML, CSS, JavaScript, React, Tailwind CSS  
+- 🧱 Backend: Node.js, Express.js  
+- 💾 Database: MongoDB, MySQL  
+- ⚙️ Tools: Git, GitHub, VS Code, Postman  
+
+---
+
+### 📫 Connect With Me
+
+- 📧 Email: sonukumarsingh.5087@gmail.com  
+- 💼 LinkedIn: [sonu-kumar-singh](https://www.linkedin.com/in/sonu-kumar-singh-9729bb328)  
+
+---
+
+### 🧩 Fun Facts
+
+- 🎬 I love horror movies and coding late at night — because nothing says “fun” like scary movies *and* scary bugs haunting your code! 👻💻  
+- 🐱 Night owl who finds inspiration in the quiet hours  
