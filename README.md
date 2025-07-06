@@ -9,9 +9,9 @@
 ### 🧠 What I Know
 
 - 🌐 Frontend: HTML, CSS, JavaScript, React, Tailwind CSS  
-- 🧱 Backend: Node.js, Express.js  
-- 💾 Database: MongoDB, MySQL  
-- ⚙️ Tools: Git, GitHub, VS Code, Postman  
+- 🧱 Backend: Node.js 
+- 💾 Database: MySQL  
+- ⚙️ Tools: Git, GitHub, VS Code 
 
 ---
 
