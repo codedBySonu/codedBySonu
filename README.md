@@ -43,12 +43,12 @@
 
   
   <a href="https://codeforces.com/profile/sonukumarsingh.5087" target="_blank" rel="noreferrer">
-    <img src="codeforces.png" alt="Codeforces" width="50"  />
+    <img src="codeforces.png" alt="Codeforces" width="45"  />
   </a>
 
   
   <a href="https://leetcode.com/codedBySonu" target="_blank" rel="noreferrer">
-    <img src="leetcode.png" alt="LeetCode" width="50"  />
+    <img src="leetcode.png" alt="LeetCode" width="45"  />
   </a>
 
   
