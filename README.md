@@ -28,23 +28,23 @@
 - 🐱 Night owl who finds inspiration in the quiet hours
 
 
-### 🌐 Connect with me:
+
+### 🌐 Connect with me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/sonu-kumar-singh-9729bb328" target="_blank">
-    <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/sonu-kumar-singh-9729bb328" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" />
   </a>
-  <a href="https://www.instagram.com/_dumbsonu" target="_blank">
-    <img src="![image](https://github.com/user-attachments/assets/3884159b-8a84-4a3c-92cc-cf40981d2252)
-" alt="Instagram"/>
+  <a href="https://www.instagram.com/_dumbsonu" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" alt="Instagram" width="40" />
   </a>
-  <a href="https://codeforces.com/profile/sonukumarsingh.5087" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Codeforces_logo.svg" alt="Codeforces" width="40"/>
+  <a href="https://codeforces.com/profile/sonukumarsingh.5087" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/codeforces.svg" alt="Codeforces" width="40" style="filter: invert(0.6);" />
   </a>
-  <a href="https://leetcode.com/codedBySonu" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="40"/>
+  <a href="https://leetcode.com/codedBySonu" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" alt="LeetCode" width="40" style="filter: invert(0.8);" />
   </a>
-  <a href="https://auth.geeksforgeeks.org/user/24cd3uwii/profile" target="_blank">
-    <img src="https://media.geeksforgeeks.org/wp-content/uploads/20210101144014/gfglogo.png" alt="GFG" width="40"/>
+  <a href="https://auth.geeksforgeeks.org/user/24cd3uwii/profile" target="_blank" rel="noreferrer">
+    <img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/gfg_200X200.png" alt="GeeksforGeeks" width="40" />
   </a>
 </p>
