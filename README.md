@@ -35,7 +35,8 @@
     <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn"/>
   </a>
   <a href="https://www.instagram.com/_dumbsonu" target="_blank">
-    <img src="https://img.icons8.com/color/48/instagram-new--v1.png" alt="Instagram"/>
+    <img src="![image](https://github.com/user-attachments/assets/3884159b-8a84-4a3c-92cc-cf40981d2252)
+" alt="Instagram"/>
   </a>
   <a href="https://codeforces.com/profile/sonukumarsingh.5087" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Codeforces_logo.svg" alt="Codeforces" width="40"/>
