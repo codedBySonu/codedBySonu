@@ -33,7 +33,7 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/sonu-kumar-singh-9729bb328" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" />
+    <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg](https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000)" alt="LinkedIn" width="40" />
   </a>
   <a href="https://www.instagram.com/_dumbsonu" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" alt="Instagram" width="40" />
