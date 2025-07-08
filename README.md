@@ -47,10 +47,3 @@
     <img src="https://media.geeksforgeeks.org/wp-content/uploads/20210101144014/gfglogo.png" alt="GFG" width="40"/>
   </a>
 </p>
-
-  </a>
-  <a href="https://auth.geeksforgeeks.org/user/24cd3uwii/profile" target="_blank">
-    <img src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/30/2ECC71/external-geeks-for-geeks-a-computer-science-portal-for-geeks-logo-filled-tal-revivo.png" alt="GeeksforGeeks"/>
-  </a>
-</p>
-
