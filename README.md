@@ -39,10 +39,10 @@
     <img src="instagram.png" alt="Instagram" width="40" />
   </a>
   <a href="https://codeforces.com/profile/sonukumarsingh.5087" target="_blank" rel="noreferrer">
-    <img src="codeforces.png" alt="Codeforces" width="40"  />
+    <img src="codeforces.png" alt="Codeforces" width="30"  />
   </a>
   <a href="https://leetcode.com/codedBySonu" target="_blank" rel="noreferrer">
-    <img src="leetcode.png" alt="LeetCode" width="40"  />
+    <img src="leetcode.png" alt="LeetCode" width="30"  />
   </a>
   <a href="https://auth.geeksforgeeks.org/user/24cd3uwii/profile" target="_blank" rel="noreferrer">
     <img src="gfg.png" alt="GeeksforGeeks" width="40" />
