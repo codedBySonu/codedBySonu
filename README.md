@@ -28,21 +28,26 @@
 - 🐱 Night owl who finds inspiration in the quiet hours
 
 
-### Connect with me:
+### 🌐 Connect with me:
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/sonu-kumar-singh-9729bb328/" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/30/0077B5/linkedin.png" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/sonu-kumar-singh-9729bb328" target="_blank">
+    <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn"/>
   </a>
-  <a href="https://www.instagram.com/YOUR_INSTAGRAM_USERNAME/" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/30/E4405F/instagram-new.png" alt="Instagram"/>
+  <a href="https://www.instagram.com/_dumbsonu" target="_blank">
+    <img src="https://img.icons8.com/color/48/instagram-new--v1.png" alt="Instagram"/>
   </a>
-  <a href="https://codeforces.com/profile/YOUR_CODEFORCES_USERNAME" target="_blank">
-    <img src="https://sta.codeforces.com/s/93249/images/icons/favicon-32x32.png" alt="Codeforces"/>
+  <a href="https://codeforces.com/profile/sonukumarsingh.5087" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Codeforces_logo.svg" alt="Codeforces" width="40"/>
   </a>
-  <a href="https://leetcode.com/
-codedBySonu/" target="_blank">
-    <img src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/30/FFA116/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-filled-tal-revivo.png" alt="LeetCode"/>
+  <a href="https://leetcode.com/codedBySonu" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="40"/>
+  </a>
+  <a href="https://auth.geeksforgeeks.org/user/24cd3uwii/profile" target="_blank">
+    <img src="https://media.geeksforgeeks.org/wp-content/uploads/20210101144014/gfglogo.png" alt="GFG" width="40"/>
+  </a>
+</p>
+
   </a>
   <a href="https://auth.geeksforgeeks.org/user/24cd3uwii/profile" target="_blank">
     <img src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/30/2ECC71/external-geeks-for-geeks-a-computer-science-portal-for-geeks-logo-filled-tal-revivo.png" alt="GeeksforGeeks"/>
