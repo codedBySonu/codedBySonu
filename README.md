@@ -33,18 +33,18 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/sonu-kumar-singh-9729bb328" target="_blank" rel="noreferrer">
-    <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg](https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000)" alt="LinkedIn" width="40" />
+    <img src="linkedin.png" alt="LinkedIn" width="40" />
   </a>
   <a href="https://www.instagram.com/_dumbsonu" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" alt="Instagram" width="40" />
+    <img src="instagram.png" alt="Instagram" width="40" />
   </a>
   <a href="https://codeforces.com/profile/sonukumarsingh.5087" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/codeforces.svg" alt="Codeforces" width="40" style="filter: invert(0.6);" />
+    <img src="codeforces.png" alt="Codeforces" width="40"  />
   </a>
   <a href="https://leetcode.com/codedBySonu" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" alt="LeetCode" width="40" style="filter: invert(0.8);" />
+    <img src="leetcode.png" alt="LeetCode" width="40"  />
   </a>
   <a href="https://auth.geeksforgeeks.org/user/24cd3uwii/profile" target="_blank" rel="noreferrer">
-    <img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/gfg_200X200.png" alt="GeeksforGeeks" width="40" />
+    <img src="gfg.png" alt="GeeksforGeeks" width="40" />
   </a>
 </p>
