@@ -43,7 +43,7 @@
 
   
   <a href="https://codeforces.com/profile/sonukumarsingh.5087" target="_blank" rel="noreferrer">
-    <img src="codeforces.png" alt="Codeforces" width="45"  style="border-radius: 50;  />
+    <img src="codeforces.png" alt="Codeforces" width="45"  style="border-radius: 50%"  />
   </a>
 
   
