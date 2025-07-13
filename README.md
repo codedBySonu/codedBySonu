@@ -54,7 +54,7 @@
   </a>
 
   <a href="https://www.hackerrank.com/24cd3043" target="_blank" rel="noreferrer">
-    <img src="icons8-hackerrank-480.png" alt="HackerRank" width="60" />
+  <img src="icons8-hackerrank-480.png" alt="HackerRank" width="60" />
   </a>
 
   <a href="mailto:sonukumarsingh.5087@gmail.com" target="_blank" rel="noreferrer">
