@@ -53,13 +53,12 @@
     <img src="icons8-codechef-400.png" alt="CodeChef" width="60" />
   </a>
 
-   <a href="https://www.hackerrank.com/profile/24cd3043" target="_blank" rel="noreferrer">
+  <a href="https://www.hackerrank.com/24cd3043" target="_blank" rel="noreferrer">
     <img src="icons8-hackerrank-480.png" alt="HackerRank" width="60" />
   </a>
 
-  <a href="[sonukumarsingh.5087@gmail.com](mailto:sonukumarsingh.5087@gmail.com)" target="_blank" rel="noreferrer">
+  <a href="mailto:example@gmail.com" target="_blank" rel="noreferrer">
     <img src="icons8-gmail-480.png" alt="E-mail" width="60" />
   </a>
-
   
 </p>
