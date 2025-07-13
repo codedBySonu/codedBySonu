@@ -33,12 +33,12 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sonu-kumar-singh-9729bb328" target="_blank" rel="noreferrer">
-    <img src="linkedin_.png" alt="LinkedIn" width="60" />
+    <img src="linkedin_icon.png" alt="LinkedIn" width="60" />
   </a>
 
   
   <a href="https://www.instagram.com/_dumbsonu" target="_blank" rel="noreferrer">
-    <img src="<i class="fa-brands fa-instagram"></i>" alt="Instagram" width="60" />
+    <img src="instagram_icon"></i>" alt="Instagram" width="60" />
   </a>
 
   
