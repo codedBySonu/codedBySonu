@@ -38,20 +38,20 @@
 
   
   <a href="https://www.instagram.com/_dumbsonu" target="_blank" rel="noreferrer">
-    <img src="instagram_icon"></i>" alt="Instagram" width="60" />
+    <img src="instagram_icon.png" alt="Instagram" width="60" />
   </a>
 
   
   <a href="https://codeforces.com/profile/sonukumarsingh.5087" target="_blank" rel="noreferrer">
-    <img src="codeforces.png" alt="Codeforces" width="45"  />
+    <img src="code-forces_icon.png" alt="Codeforces" width="45"  />
   </a>
 
    <a href="https://github.com/codedBySonu" target="_blank" rel="noreferrer">
-    <img src="github_.png" alt="github" width="45"  />
+    <img src="github_icon.png" alt="github" width="45"  />
   </a>
 
   <a href="https://leetcode.com/codedBySonu" target="_blank" rel="noreferrer">
-    <img src="leetcode.png" alt="LeetCode" width="45"  />
+    <img src="leetcode_icon.png" alt="LeetCode" width="45"  />
   </a>
 
   <a href="https://auth.geeksforgeeks.org/user/24cd3uwii/profile" target="_blank" rel="noreferrer">
