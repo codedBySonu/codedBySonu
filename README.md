@@ -33,12 +33,12 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sonu-kumar-singh-9729bb328" target="_blank" rel="noreferrer">
-    <img src="linkedin.png" alt="LinkedIn" width="60" />
+    <img src="linkedin_.png" alt="LinkedIn" width="60" />
   </a>
 
   
   <a href="https://www.instagram.com/_dumbsonu" target="_blank" rel="noreferrer">
-    <img src="instagram.png" alt="Instagram" width="60" />
+    <img src="insta_.png" alt="Instagram" width="60" />
   </a>
 
   
@@ -47,7 +47,7 @@
   </a>
 
    <a href="https://github.com/codedBySonu" target="_blank" rel="noreferrer">
-    <img src="github1.png" alt="github" width="45"  />
+    <img src="github_.png" alt="github" width="45"  />
   </a>
 
   <a href="https://leetcode.com/codedBySonu" target="_blank" rel="noreferrer">
