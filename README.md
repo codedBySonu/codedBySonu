@@ -15,13 +15,6 @@
 
 ---
 
-### 📫 Connect With Me
-
-- 📧 Email: sonukumarsingh.5087@gmail.com  
-- 💼 LinkedIn: [sonu-kumar-singh](https://www.linkedin.com/in/sonu-kumar-singh-9729bb328)  
-
----
-
 ### 🧩 Fun Facts
 
 - 🎬 I love horror movies and coding late at night — because nothing says “fun” like scary movies *and* scary bugs haunting your code! 👻💻  
@@ -63,4 +56,10 @@
    <a href="https://www.hackerrank.com/profile/24cd3043" target="_blank" rel="noreferrer">
     <img src="icons8-hackerrank-480.png" alt="HackerRank" width="60" />
   </a>
+
+  <a href="[sonukumarsingh.5087@gmail.com](mailto:sonukumarsingh.5087@gmail.com)" target="_blank" rel="noreferrer">
+    <img src="icons8-gmail-480.png" alt="E-mail" width="60" />
+  </a>
+
+  
 </p>
