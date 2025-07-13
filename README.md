@@ -57,4 +57,12 @@
   <a href="https://auth.geeksforgeeks.org/user/24cd3uwii/profile" target="_blank" rel="noreferrer">
     <img src="gfg.png" alt="GeeksforGeeks" width="60" />
   </a>
+
+  <a href="https://www.codechef.com/users/codedBySonu" target="_blank" rel="noreferrer">
+    <img src="icons8-codechef-400.png" alt="CodeChef" width="60" />
+  </a>
+
+   <a href="https://www.hackerrank.com/profile/24cd3043" target="_blank" rel="noreferrer">
+    <img src="icons8-hackerrank-480.png" alt="HackerRank" width="60" />
+  </a>
 </p>
