@@ -57,7 +57,7 @@
     <img src="icons8-hackerrank-480.png" alt="HackerRank" width="60" />
   </a>
 
-  <a href="mailto:example@gmail.com" target="_blank" rel="noreferrer">
+  <a href="mailto:sonukumarsingh.5087@gmail.com" target="_blank" rel="noreferrer">
     <img src="icons8-gmail-480.png" alt="E-mail" width="60" />
   </a>
   
