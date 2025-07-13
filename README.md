@@ -47,7 +47,7 @@
   </a>
 
    <a href="https://github.com/codedBySonu" target="_blank" rel="noreferrer">
-    <img src="github.png" alt="github" width="45"  />
+    <img src="github1.png" alt="github" width="45"  />
   </a>
 
   <a href="https://leetcode.com/codedBySonu" target="_blank" rel="noreferrer">
