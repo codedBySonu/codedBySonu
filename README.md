@@ -38,7 +38,7 @@
 
   
   <a href="https://www.instagram.com/_dumbsonu" target="_blank" rel="noreferrer">
-    <img src="insta_.png" alt="Instagram" width="60" />
+    <img src="<i class="fa-brands fa-instagram"></i>" alt="Instagram" width="60" />
   </a>
 
   
