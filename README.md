@@ -46,6 +46,11 @@
     <img src="codeforces.png" alt="Codeforces" width="45"  />
   </a>
 
+   <a href="https://github.com/codedBySonu
+" target="_blank" rel="noreferrer">
+    <img src="github.png" alt="Codeforces" width="45"  />
+  </a>
+
   
   <a href="https://leetcode.com/codedBySonu" target="_blank" rel="noreferrer">
     <img src="leetcode.png" alt="LeetCode" width="45"  />
