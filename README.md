@@ -26,17 +26,18 @@ Computer Science Student | DSA | Machine Learning | Software Development
 
 ---
 
+## 🔍 My Practice Arena
+
 ## 🔍 Practice
 
 <p align="left">
   <a href="https://leetcode.com/u/codedBySonu/">
-    <img src="https://skillicons.dev/icons?i=leetcode" />
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" width="40" height="40"/>
   </a>
   <a href="https://codeforces.com/profile/sonukumarsingh.5087">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/codeforces.svg" width="48" height="48"/>
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/codeforces.svg" width="40" height="40"/>
   </a>
 </p>
-
 ---
 
 ## 🌐 Let's Connect
