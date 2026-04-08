@@ -29,11 +29,11 @@ Computer Science Student | DSA | Machine Learning | Software Development
 ## 🔍 My Practice Arena
 
 <a href="https://codeforces.com/profile/sonukumarsingh.5087" target="_blank">
- <img src="code-forces_icon.png" alt="Codeforces" width="60" />
+ <img src="code-forces_icon.png" alt="Codeforces" width="55" />
 </a>
 
 <a href="https://leetcode.com/u/codedBySonu/" target="_blank">
- <img src="leetcode_icon.png" alt="LeetCode" width="60" />
+ <img src="leetcode_icon.png" alt="LeetCode" width="55" />
 </a>
 ---
 
