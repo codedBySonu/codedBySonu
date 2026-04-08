@@ -28,16 +28,13 @@ Computer Science Student | DSA | Machine Learning | Software Development
 
 ## 🔍 My Practice Arena
 
-## 🔍 Practice
+<a href="https://codeforces.com/profile/sonukumarsingh.5087" target="_blank">
+  <img src="https://img.icons8.com/color/48/codeforces.png" alt="Codeforces" width="60"/>
+</a>
 
-<p align="left">
-  <a href="https://leetcode.com/u/codedBySonu/">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" width="40" height="40"/>
-  </a>
-  <a href="https://codeforces.com/profile/sonukumarsingh.5087">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/codeforces.svg" width="40" height="40"/>
-  </a>
-</p>
+<a href="https://leetcode.com/u/codedBySonu/" target="_blank">
+  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="LeetCode" width="60"/>
+</a>
 ---
 
 ## 🌐 Let's Connect
