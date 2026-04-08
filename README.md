@@ -1,64 +1,57 @@
-# 👋 Hi, I'm Sonu Kumar Singh
-
-💻 Passionate about **coding** and **web development**  
-🚀 Turning ideas into beautiful, responsive websites  
-🛠️ Always exploring new tech and improving my skills  
+## 👋 Hey there! I'm Sonu Kumar Singh  
+Computer Science Student | DSA | Machine Learning | Software Development  
 
 ---
 
-### 🧠 What I Know
+## 🧠 About Me
 
-- 🌐 Frontend: HTML, CSS, JavaScript, React, Tailwind CSS  
-- 🧱 Backend: Node.js 
-- 💾 Database: MySQL  
-- ⚙️ Tools: Git, GitHub, VS Code 
+🎓 Sophomore at Rajiv Gandhi Institute of Petroleum Technology (RGIPT)  
+💻 Focused on Data Structures & Algorithms, Software Development, and Machine Learning  
+🔨 Building projects involving web development, databases, and basic ML models  
+📊 Exploring data-driven problem solving using Python and SQL  
+🧑‍💻 Continuously improving through personal projects and DSA practice  
+💬 Open to collaboration and learning opportunities in tech  
 
 ---
 
-### 🧩 Fun Facts
+## 🚀 Tech Stack
 
-- 🎬 I love horror movies and coding late at night — because nothing says “fun” like scary movies *and* scary bugs haunting your code! 👻💻  
-- 🐱 Night owl who finds inspiration in the quiet hours
-
-
-
-### 🌐 Connect with me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/sonu-kumar-singh-9729bb328" target="_blank" rel="noreferrer">
-    <img src="linkedin_icon.png" alt="LinkedIn" width="60" />
-  </a>
-
-  <a href="https://github.com/codedBySonu" target="_blank" rel="noreferrer">
-    <img src="github_icon.png" alt="github" width="60"  />
-  </a>
-
-  <a href="https://www.instagram.com/_dumbsonu" target="_blank" rel="noreferrer">
-    <img src="instagram_icon.png" alt="Instagram" width="60" />
-  </a>
-  
-  <a href="https://codeforces.com/profile/sonukumarsingh.5087" target="_blank" rel="noreferrer">
-    <img src="code-forces_icon.png" alt="Codeforces" width="60"  />
-  </a>
-
-  <a href="https://leetcode.com/codedBySonu" target="_blank" rel="noreferrer">
-    <img src="leetcode_icon.png" alt="LeetCode" width="60"  />
-  </a>
-
-  <a href="https://auth.geeksforgeeks.org/user/24cd3uwii/profile" target="_blank" rel="noreferrer">
-    <img src="gfg.png" alt="GeeksforGeeks" width="60" />
-  </a>
-
-  <a href="https://www.codechef.com/users/codedBySonu" target="_blank" rel="noreferrer">
-    <img src="icons8-codechef-400.png" alt="CodeChef" width="60" />
-  </a>
-
-  <a href="https://www.hackerrank.com/profile/24cd3043" target="_blank" rel="noreferrer">
-  <img src="icons8-hackerrank-480.png" alt="HackerRank" width="60" />
-  </a>
-
-  <a href="mailto:sonukumarsingh.5087@gmail.com" target="_blank" rel="noreferrer">
-    <img src="icons8-gmail-480.png" alt="E-mail" width="60" />
-  </a>
-  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,python,js,html,css,nodejs,express,mysql,git,github,vscode" />
 </p>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=numpy,pandas" />
+</p>
+
+---
+
+## 🔍 Practice
+
+<p align="left">
+  <a href="https://leetcode.com/u/codedBySonu/">
+    <img src="https://skillicons.dev/icons?i=leetcode" />
+  </a>
+  <a href="https://codeforces.com/profile/sonukumarsingh.5087">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/codeforces.svg" width="48" height="48"/>
+  </a>
+</p>
+
+---
+
+## 🌐 Let's Connect
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/sonu-kumar-singh-9729bb328/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://www.instagram.com/_dumbsonu/">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+</p>
+
+---
+
+## ⚡ Focus
+
+Improving problem-solving skills, building scalable applications, and exploring machine learning.       
