@@ -38,26 +38,37 @@
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40"/>
   <img width="10" />
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
   <img width="10" />
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
   <img width="10" />
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
   <img width="10" />
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
   <img width="10" />
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
   <img width="10" />
+  
   <img src="https://skillicons.dev/icons?i=github" height="40"/>
   <img width="10" />
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40"/>
   <img width="10" />
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40"/>
   <img width="10" />
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40"/>
   <img width="10" />
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
   <img width="10" />
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40"/>
 </p>
 
@@ -79,7 +90,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=codedBySonu&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codedBySonu&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://streak-stats.demolab.com?user=codedBySonu&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 <p align="center">
@@ -91,6 +102,7 @@
 ## 🏆 Coding Profiles
 
 <p align="left">
+  
   <a href="https://leetcode.com/u/codedBySonu/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=orange"/>
   </a>
@@ -98,6 +110,7 @@
   <a href="https://codeforces.com/profile/sonukumarsingh.5087" target="_blank">
     <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white"/>
   </a>
+
 </p>
 
 ---
@@ -105,6 +118,7 @@
 ## 🌐 Connect With Me
 
 <p align="left">
+  
   <a href="https://www.linkedin.com/in/sonu-kumar-singh-9729bb328/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
   </a>
@@ -112,6 +126,7 @@
   <a href="https://www.instagram.com/_dumbsonu/" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" height="45"/>
   </a>
+
 </p>
 
 ---
@@ -126,8 +141,10 @@
 ---
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=codedBySonu&theme=tokyonight&row=1&column=6&margin-w=15&margin-h=15"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=codedBySonu&theme=tokyonight&no-frame=true&row=1&column=6"/>
 </p>
+
+---
 
 <p align="center">
   <i>"Code • Learn • Build • Improve"</i>
