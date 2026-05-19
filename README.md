@@ -1,82 +1,91 @@
-<h1 align="center">Hey there! I'm Sonu Kumar Singh 👋</h1>
+<h1 align="center">Sonu Kumar Singh</h1>
 
 <p align="center">
-  <em>Computer Science Student | DSA | Machine Learning | Software Development</em>
+  Computer Science Student • Machine Learning Enthusiast • Software Developer
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Building+Projects+with+Code;Learning+DSA+and+Machine+Learning;Always+Improving+and+Exploring!" />
-</p>
-
----
-
-### 🧠 About Me
-
-- 🎓 Sophomore at **Rajiv Gandhi Institute of Petroleum Technology (RGIPT)**
-- 💻 Focused on **Data Structures & Algorithms, Software Development, and Machine Learning**
-- 🔨 Building projects involving **web development, databases, and basic ML models**
-- 📊 Exploring **data-driven problem solving** using Python and SQL
-- 🧑‍💻 Continuously improving through **DSA practice and personal projects**
-- 💬 Open to collaboration and learning opportunities  
-
----
-
-### 🚀 Tech Stack I Work With
-
-<div align="left">
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40"/>
-
-</div>
-
----
-
-### 🔍 My Practice Arena
-
-<div align="left">
-  <a href="https://leetcode.com/u/codedBySonu/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"/>
-  </a>
-  <a href="https://codeforces.com/profile/sonukumarsingh.5087" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white"/>
-  </a>
-</div>
-
----
-
-### 🌐 Let's Connect!
-
-<div align="left">
   <a href="https://www.linkedin.com/in/sonu-kumar-singh-9729bb328/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://www.instagram.com/_dumbsonu/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40"/>
+  
+  <a href="https://leetcode.com/u/codedBySonu/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=white"/>
   </a>
-</div>
+
+  <a href="https://codeforces.com/profile/sonukumarsingh.5087" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-445f9d?style=flat-square&logo=Codeforces&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## About Me
+
+I am a Computer Science student at **Rajiv Gandhi Institute of Petroleum Technology (RGIPT)** with interests in:
+
+- Machine Learning & Deep Learning
+- Software Development
+- Data Structures & Algorithms
+- Computer Vision
+- Artificial Intelligence
+
+I enjoy building practical projects, exploring modern technologies, and continuously improving my problem-solving skills through development and competitive programming.
+
+---
+
+## Technical Skills
+
+### Languages
+- C++
+- Python
+- JavaScript
+- SQL
+
+### Frameworks & Libraries
+- TensorFlow
+- Keras
+- NumPy
+- OpenCV
+
+### Tools & Technologies
+- Git & GitHub
+- VS Code
+- Linux
+- MySQL
+
+### Areas of Interest
+- Deep Learning
+- Computer Vision
+- Data Analysis
+- Full Stack Development
+
+---
+
+## GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=codedBySonu&show_icons=true&theme=default&hide_border=true" height="170"/>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codedBySonu&theme=default&hide_border=true" height="170"/>
+</p>
+
+---
+
+## Coding Profiles
+
+- LeetCode: https://leetcode.com/u/codedBySonu/
+- Codeforces: https://codeforces.com/profile/sonukumarsingh.5087
+
+---
+
+## Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/sonu-kumar-singh-9729bb328/
+- Instagram: https://www.instagram.com/_dumbsonu/
 
 ---
 
 <p align="center">
-  ⚡ <i>Focused on building real-world projects and improving problem-solving skills.</i>
+  <i>Focused on building impactful projects and strengthening problem-solving skills.</i>
 </p>
