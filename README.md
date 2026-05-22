@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Sonu Kumar Singh 👋</h1>
+
 
 <p align="center">
   <em>Computer Science Student • Machine Learning Enthusiast • Software Developer</em>
